@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{87A5C451-EE35-BF9F-E20D-D96B536F39CF}") = "Recyle", "Assembly-CSharp.csproj", "{44618207-277F-C9D8-40ED-DD22F831F4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44618207-277F-C9D8-40ED-DD22F831F4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44618207-277F-C9D8-40ED-DD22F831F4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44618207-277F-C9D8-40ED-DD22F831F4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44618207-277F-C9D8-40ED-DD22F831F4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
